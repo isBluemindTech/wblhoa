@@ -1,6 +1,3 @@
 name = "wblhoa"
-compatibility_date = "2025-10-15"
 main = "worker.js"
-
-[assets]
-directory = "."   # or "src" if that's where your final files are
+compatibility_date = "2025-10-15"
