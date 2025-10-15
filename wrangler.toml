@@ -3,4 +3,4 @@ compatibility_date = "2025-10-15"
 main = "src/index.js"
 
 [assets]
-directory = "dist"   # or "src" if that's where your final files are
+directory = "src"   # or "src" if that's where your final files are
