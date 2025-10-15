@@ -1,0 +1,4 @@
+# wrangler.toml
+name = "wblhoa"
+main = "src/index.ts"         # <- adjust if your entry is elsewhere
+compatibility_date = "2025-10-15"
