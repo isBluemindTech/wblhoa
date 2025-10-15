@@ -1,4 +1,6 @@
-# wrangler.toml
-name = "wblhoa"
-main = "src/index.js"         # <- adjust if your entry is elsewhere
+name = "my-spa"
 compatibility_date = "2025-10-15"
+main = "src/index.js"
+
+[assets]
+directory = "dist"   # or "src" if that's where your final files are
