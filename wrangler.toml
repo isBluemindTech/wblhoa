@@ -1,6 +1,6 @@
-name = "my-spa"
+name = "wblhoa"
 compatibility_date = "2025-10-15"
-main = "src/index.js"
+main = "worker.js"
 
 [assets]
-directory = "src"   # or "src" if that's where your final files are
+directory = "."   # or "src" if that's where your final files are
